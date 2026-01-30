@@ -34,5 +34,5 @@ No additional setup or dependencies are required.
 
 **Ninad Shirsat**  
 GitHub: https://github.com/Ninadshirsat  
-LinkedIn: https://linkedin.com/in/ninad-shirsat-177656201/
+LinkedIn: https://linkedin.com/in/ninad-shirsat-177656201/  
 Portfolio: https://ninad-shirsat-portfolio.vercel.app/
